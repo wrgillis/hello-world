@@ -1,0 +1,2 @@
+# hello-world
+opening exercise
